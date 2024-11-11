@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CriticalNewsTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="itemBackgroundColor">#fef7ff</item>
+    </style>
+
+    <style name="Theme.CriticalNewsTest" parent="Base.Theme.CriticalNewsTest" />
+</resources>
